@@ -1,0 +1,32 @@
+#modal-image {
+    width: 400px;
+    height: 400px;
+
+    margin: 50px;
+
+    text-align: center;
+}
+
+#live-nomster-button {
+    background-color: #7467ad;
+    border: solid #7467ad;
+    color: #77dfff;
+    -webkit-text-stroke: 1px rgb(7, 0, 55);
+    font-family: 'Nosifer', cursive;
+    box-shadow: 0px 0px 25px 0px #7467ad;
+
+    font-size: 25px;
+    font-weight: bold;
+
+    padding: 5px;
+    margin: 10px;
+}
+
+#live-nomster-button:hover {
+    color: rgb(255, 0, 42);
+    -webkit-text-stroke: 1px rgb(142, 0, 0);
+    padding: 7px;
+    border: solid rgb(7, 0, 55);
+    border-width: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 25px 0px rgb(142, 0, 0);
+}

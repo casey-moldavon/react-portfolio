@@ -17,14 +17,9 @@ function EmployeeManagementP(){
             </Button>
 
             <Modal show={showEM} onHide={handleClose}>
-                <Modal.Header closeButton>
                     <Image id="modal-image" src={require("../Projects/images/employee-management.gif")} />
-                    <Modal.Title className="text">Employee Management</Modal.Title>
-                </Modal.Header>
 
-                <Modal.Footer>
-                    <Button href="https://github.com/casey-moldavon/employee-management-system" className="text-center">See it Live</Button>
-                </Modal.Footer>
+                    <Button href="https://github.com/casey-moldavon/employee-management-system" id="live-emp-button">See it Live</Button>
             </Modal>
             </>
         </div>

@@ -18,9 +18,8 @@ function CodeQuizP(){
 
             <Modal show={showCQ} onHide={handleClose}>
                     <Image id="modal-image" src={require("../Projects/images/code-quiz.png")} />
-                    <Modal.Title className="text">Code Quiz</Modal.Title>
 
-                    <Button href="https://casey-moldavon.github.io/code-quiz/" className="text-center">See it Live</Button>
+                    <Button href="https://casey-moldavon.github.io/code-quiz/" id="live-code-button">See it Live</Button>
             </Modal>
             </>
         </div>

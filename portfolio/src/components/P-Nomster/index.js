@@ -17,14 +17,9 @@ function NomsterP(){
             </Button>
 
             <Modal show={showNS} onHide={handleClose}>
-                <Modal.Header closeButton>
                     <Image id="modal-image" src={require("../Projects/images/nomster.png")} />
-                    <Modal.Title className="text">Nomster</Modal.Title>
-                </Modal.Header>
 
-                <Modal.Footer>
-                    <Button href="https://casey-moldavon.github.io/Nomster/" className="text-center">See it Live</Button>
-                </Modal.Footer>
+                    <Button href="https://casey-moldavon.github.io/Nomster/" id="live-nomster-button">See it Live</Button>
             </Modal>
             </>
         </div>

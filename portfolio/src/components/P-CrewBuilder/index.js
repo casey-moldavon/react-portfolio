@@ -17,14 +17,9 @@ function CrewBuilderP(){
             </Button>
 
             <Modal show={showCB} onHide={handleClose}>
-                <Modal.Header closeButton>
                     <Image id="modal-image" src={require("../Projects/images/crew-builder.gif")} />
-                    <Modal.Title className="text">Crew Builder</Modal.Title>
-                </Modal.Header>
 
-                <Modal.Footer>
-                    <Button href="https://github.com/casey-moldavon/empire-crew-registry" className="text-center">See it Live</Button>
-                </Modal.Footer>
+                    <Button href="https://github.com/casey-moldavon/empire-crew-registry" id="live-crew-button">See it Live</Button>
             </Modal>
             </>
         </div>

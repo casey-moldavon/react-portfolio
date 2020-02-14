@@ -17,14 +17,9 @@ function MedievalAvatarsP(){
             </Button>
 
             <Modal show={showMA} onHide={handleClose}>
-                <Modal.Header closeButton>
                     <Image id="modal-image" src={require("../Projects/images/medieval-avatars.png")} />
-                    <Modal.Title className="text">Medieval Avatars</Modal.Title>
-                </Modal.Header>
 
-                <Modal.Footer>
-                    <Button href="https://radiant-plateau-35150.herokuapp.com/" className="text-center">See it Live</Button>
-                </Modal.Footer>
+                    <Button href="https://radiant-plateau-35150.herokuapp.com/" id="live-medieval-button">See it Live</Button>
             </Modal>
             </>
         </div>

@@ -1,0 +1,28 @@
+#modal-image {
+    width: 400px;
+    height: 400px;
+
+    margin: 50px;
+
+    text-align: center;
+}
+
+#live-code-button {
+    background-color: red;
+    border: solid red;
+    color: white;
+    box-shadow: 0px 0px 25px 0px red;
+
+    font-size: 25px;
+    font-weight: bold;
+
+    padding: 5px;
+    margin: 10px;
+}
+
+#live-code-button:hover {
+    background-color: green;
+    border: solid green;
+    color: white;
+    box-shadow: 0px 0px 25px 0px green;
+}

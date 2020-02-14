@@ -17,14 +17,9 @@ function PasswordGeneratorP(){
             </Button>
 
             <Modal show={showPG} onHide={handleClose}>
-                <Modal.Header closeButton>
                     <Image id="modal-image" src={require("../Projects/images/password-generator.png")} />
-                    <Modal.Title className="text">Password Generator</Modal.Title>
-                </Modal.Header>
 
-                <Modal.Footer>
-                    <Button href="https://casey-moldavon.github.io/password-generator/" className="text-center">See it Live</Button>
-                </Modal.Footer>
+                    <Button href="https://casey-moldavon.github.io/password-generator/" id="live-password-button">See it Live</Button>
             </Modal>
             </>
         </div>

@@ -1,0 +1,29 @@
+#modal-image {
+    width: 400px;
+    height: 400px;
+
+    margin: 50px;
+
+    text-align: center;
+}
+
+#live-password-button {
+    background-color: #3b3829;
+    border: solid #3b3829;
+    box-shadow: 0px 0px 25px 0px #3b3829;
+
+    font-size: 25px;
+    font-weight: bold;
+
+    padding: 5px;
+    margin: 10px;
+}
+
+#live-password-button:hover {
+    background-color: #f2e8cd;
+    color: #3b3829;
+    border: solid #007bff;
+    border-width: 5px 5px 5px 5px;
+    padding: 7px;
+    box-shadow: 0px 0px 25px 0px #007bff;
+}

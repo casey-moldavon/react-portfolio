@@ -17,14 +17,9 @@ function WorkoutTrackerP(){
             </Button>
 
             <Modal show={showWT} onHide={handleClose}>
-                <Modal.Header closeButton>
                     <Image id="modal-image" src={require("../Projects/images/workout-tracker.png")} />
-                    <Modal.Title className="text">Workout Tracker</Modal.Title>
-                </Modal.Header>
 
-                <Modal.Footer>
-                    <Button href="https://exercise-app-backend-repair.herokuapp.com/?id=5e3dd92260ec0300174fb420" className="text-center">See it Live</Button>
-                </Modal.Footer>
+                    <Button href="https://exercise-app-backend-repair.herokuapp.com/?id=5e3dd92260ec0300174fb420" id="live-workout-button">See it Live</Button>
             </Modal>
             </>
         </div>

@@ -17,10 +17,9 @@ function ClickyGameP(){
             </Button>
 
             <Modal show={showCG} onHide={handleClose}>
-            <Image id="modal-image" src={require("../Projects/images/clicky-game.png")} />
-                    <Modal.Title className="clicky-text">Clicky Game</Modal.Title>
+                <Image id="modal-image" src={require("../Projects/images/clicky-game.png")} />
 
-                    <Button href="https://casey-moldavon.github.io/clicky-game/" id="live-view-button">See it Live</Button>
+                    <Button href="https://casey-moldavon.github.io/clicky-game/" id="live-clicky-button">See it Live</Button>
             </Modal>
             </>
         </div>

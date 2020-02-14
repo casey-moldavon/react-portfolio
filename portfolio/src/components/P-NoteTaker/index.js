@@ -17,14 +17,9 @@ function NoteTakerP(){
             </Button>
 
             <Modal show={showNT} onHide={handleClose}>
-                <Modal.Header closeButton>
                     <Image id="modal-image" src={require("../Projects/images/note-taker.png")} />
-                    <Modal.Title className="text">Note Taker</Modal.Title>
-                </Modal.Header>
 
-                <Modal.Footer>
-                    <Button href="https://github.com/casey-moldavon/note-taker" className="text-center">See it Live</Button>
-                </Modal.Footer>
+                    <Button href="https://github.com/casey-moldavon/note-taker" id="live-note-button">See it Live</Button>
             </Modal>
             </>
         </div>

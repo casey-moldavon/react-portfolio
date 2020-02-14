@@ -7,13 +7,7 @@
     text-align: center;
 }
 
-.clicky-text {
-    text-align: center;
-    margin-top: -20px;
-    margin-bottom: 20px;
-}
-
-#live-view-button {
+#live-clicky-button {
     background-color: black;
     border: solid black;
     color: white;
@@ -26,7 +20,7 @@
     margin: 10px;
 }
 
-#live-view-button:hover {
+#live-clicky-button:hover {
     background-color: white;
     border: solid red;
     color: black;

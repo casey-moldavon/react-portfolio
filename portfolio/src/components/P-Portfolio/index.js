@@ -17,14 +17,9 @@ function PortfolioP(){
             </Button>
 
             <Modal show={showPO} onHide={handleClose}>
-                <Modal.Header closeButton>
                     <Image id="modal-image" src={require("../Projects/images/portfolio.png")} />
-                    <Modal.Title className="text">Portfolio</Modal.Title>
-                </Modal.Header>
 
-                <Modal.Footer>
-                    <Button href="https://casey-moldavon.github.io/updated-portfolio-2/" className="text-center">See it Live</Button>
-                </Modal.Footer>
+                    <Button href="https://casey-moldavon.github.io/updated-portfolio-2/" id="live-port-button">See it Live</Button>
             </Modal>
             </>
         </div>
