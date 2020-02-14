@@ -23,15 +23,15 @@
 }
 
 .project-text {
-    color: black;
+    color: white;
     font-size: 15px;
 }
     #project-card:hover {
 
-        background-color: white;
+        background-color: black;
         border: 5px solid #e42350;
         box-shadow: 0 1px 42px #e42350;
-        color: white;
+        color: black;
         font-size: 16px;
 
         overflow: scroll;

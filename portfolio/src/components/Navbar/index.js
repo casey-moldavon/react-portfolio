@@ -1,7 +1,9 @@
 import React from 'react';
 import { Navbar, Nav, Row, Form } from 'react-bootstrap';
 import Skills from '../Skills';
+import Bio from '../Bio';
 import './style.css';
+
 
 function Navb () {
     return (
@@ -14,7 +16,7 @@ function Navb () {
 
                 <Form inline>
                     <Navbar.Brand>
-                        <Row>
+                        <Row className="nav-title">
                             <p id="c" >C</p>
                             <p id="a" >a</p>
                             <p id="s" >s</p>
@@ -28,6 +30,7 @@ function Navb () {
                     </Form>
 
                     <Skills/>
+                    <Bio/>
 
                 </Nav>
 

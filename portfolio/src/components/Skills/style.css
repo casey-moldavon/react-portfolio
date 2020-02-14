@@ -1,37 +1,21 @@
 #skill-button {
-    background-color: #00b55b;
-    border: 5px solid #00b55b;
-    border-radius: 0;
+    background-color: Black;
+    border: 5px solid Black;
+    border-radius: 5px;
     color: #00b55b;
-    font-size: 1px;
 
-    width: 25rem;
-    height: 5rem;
+    font-size: 25px;
+    font-weight: bold;
 }
 
 #skill-text {
     color: black;
     font-size: 25px;
+    font-weight: bold;
 }
     #skill-button:hover {
-        width: 25rem;
-        height: 20rem;
-        background-color: white;
+        background-color: black;
         border: 5px solid #00b55b;
         box-shadow: 0 1px 42px #00b55b;
-        color: black;
-        font-size: 16px;
-
-        overflow: scroll;
-
-        /* margin: 10px; */
-    }
-    #skill-button:hover #skill-text{
-        font-size: 42px;
-    }
-
-    .listed-skill{
-        margin: -5px;
-        margin-top: 0;
-        margin-bottom: 0;
+        color: white;
     }

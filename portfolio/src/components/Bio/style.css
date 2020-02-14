@@ -1,35 +1,23 @@
-#bio-card {
-    background-color: #0077b5;
-    border: 5px solid #0077b5;
-    border-radius: 0;
+#bio-button {
+    background-color: Black;
+    border: 5px solid Black;
+    border-radius: 5px;
     color: #0077b5;
-    font-size: 1px;
 
-    width: 25rem;
-    height: 5rem;
+    font-size: 25px;
+    font-weight: bold;
+
+    margin-left: 10px;
 }
 
 #bio-text {
     color: black;
     font-size: 25px;
+    font-weight: bold;
 }
-    #bio-card:hover {
-        width: 25rem;
-        height: 30rem;
-        background-color: white;
+    #bio-button:hover {
+        background-color: black;
         border: 5px solid #0077b5;
         box-shadow: 0 1px 42px #0077b5;
-        color: black;
-        font-size: 16px;
-
-        overflow: scroll;
-        /* margin: 10px; */
-    }
-
-    #bio-card:hover #bio-text{
-        font-size: 42px;
-    }
-
-    #bio-card:hover #skill-card{
-        background-color: black;
+        color: white;
     }

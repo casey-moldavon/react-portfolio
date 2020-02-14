@@ -3,11 +3,11 @@
     color: white;
 }
 
-#c {color: rgb(0, 255, 0); font-weight: bold; font-size: 25px; padding-top: 10px; margin-left: 25px;}
-#a {color: rgb(255, 255, 0); font-weight: bold; font-size: 25px; padding-top: 10px;}
-#s {color: rgb(255, 0, 100); font-weight: bold; font-size: 25px; padding-top: 10px;}
-#e {color: rgb(255, 0, 255); font-weight: bold; font-size: 25px; padding-top: 10px;}
-#y {color: rgb(0, 155, 255); font-weight: bold; font-size: 25px; padding-top: 10px;}
-#mark {color: white; font-weight: bold; font-size: 25px; padding-top: 10px;}
-#s2 {color: rgb(0, 255, 255); font-weight: bold; font-size: 25px; padding-top: 10px;}
-#port {color: white; font-weight: bold; font-size: 25px; padding-top: 10px; margin-left: 10px; margin-right: 50px;}
+#c {color: rgb(0, 255, 0); font-weight: bold; font-size: 25px; margin-left: 25px;}
+#a {color: rgb(255, 255, 0); font-weight: bold; font-size: 25px;}
+#s {color: rgb(255, 0, 100); font-weight: bold; font-size: 25px;}
+#e {color: rgb(255, 0, 255); font-weight: bold; font-size: 25px;}
+#y {color: rgb(0, 155, 255); font-weight: bold; font-size: 25px;}
+#mark {color: white; font-weight: bold; font-size: 25px;}
+#s2 {color: rgb(0, 255, 255); font-weight: bold; font-size: 25px;}
+#port {color: white; font-weight: bold; font-size: 25px; margin-left: 10px; margin-right: 50px;}
