@@ -1,0 +1,43 @@
+#project-card {
+    background-color: #2b5c98;
+    border: 5px solid #2b5c98;
+    border-radius: 0;
+    color: black;
+    width: 10rem;
+    height: 12.4rem;
+}
+
+#project-image {
+    border: 3.5px solid #2b5c98;
+    border-radius: 50%;
+
+    width: 120px;
+    height: 120px;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: -10px;
+}
+
+#project-card:hover #project-image{
+    border-radius: 5px;
+}
+
+.project-text {
+    color: black;
+    font-size: 15px;
+}
+    #project-card:hover {
+
+        background-color: white;
+        border: 5px solid #e42350;
+        box-shadow: 0 1px 42px #e42350;
+        color: white;
+        font-size: 16px;
+
+        overflow: scroll;
+
+        /* margin: 10px; */
+    }
+    #project-card:hover #skill-text{
+        font-size: 42px;
+    }

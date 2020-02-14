@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#profile-div {
+  margin-top: 142px;
+}
+
+body {
+  background-image: url("./components/vader.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: white;
+  background-attachment: fixed;
+}
