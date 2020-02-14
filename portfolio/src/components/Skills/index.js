@@ -13,7 +13,7 @@ function Bio(){
 
         <div>
             <>
-            <button className="text-center" id="skill-button" variant="primary" onClick={handleShow}>
+            <button className="text-center" id="skill-button" onClick={handleShow}>
                 Skills
             </button>
 

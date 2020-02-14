@@ -12,19 +12,18 @@ function App() {
     <div>
       <Navbar/>
 
-      <div id="profile-div">
+      <div xs={4} id="profile-div">
 
           <Row>
               <Col>
                 <AboutMe/>
               </Col>
 
-              <Col>
-              </Col>
-
-
-            <Col id="projects-col">
+            <Col xs={8} id="projects-col">
               <Projects/>
+            </Col>
+
+            <Col>
             </Col>
           </Row>
 
