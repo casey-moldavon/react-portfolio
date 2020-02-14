@@ -9,26 +9,28 @@
     margin-top: 5%;
 }
 #about-me-card {
-    background-color: #2b5c98;
-    border: 5px solid #2b5c98;
+    background-color: black;
+    border: 5px solid black;
     border-radius: 0;
 
     width: 25rem;
-    height: 30rem;
+    height: 25rem;
 }
 
     #about-me-card:hover {
+        width: 25rem;
+        height: 30rem;
         background-color: black;
         border: 5px solid rgb(255, 0, 55);
         box-shadow: 0 1px 42px rgb(255, 0, 55);
     }
         #about-me-text{
-            color: #2b5c98;
+            color: black;
             font-size: 1px;
         }
             #about-me-card:hover #about-me-text{
                 color: white;
-                font-size: 42px;
+                font-size: 25px;
             }
 
         #about-me-card:hover #git{font-size: 60px;}

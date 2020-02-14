@@ -8,7 +8,7 @@ import './style.css';
 function Navb () {
     return (
         <div>
-            <Navbar fixed="top" id="navbar" variant="dark" expand="lg">
+            <Navbar id="navbar" variant="dark" expand="lg">
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
 

@@ -11,12 +11,10 @@
   }
 }
 
-#profile-div {
-  margin-top: 142px;
-}
-
 body {
-  background-image: url("./components/vader.png");
+  /* background-image: url("./components/vader.png"); */
+  /* background-image: url('./components/sad-background.jpg'); */
+  background-image: url('./components/background-str-2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-color: white;

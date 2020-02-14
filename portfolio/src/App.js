@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Row, Col, Container } from 'react-bootstrap';
+import { Row, Col } from 'react-bootstrap';
 import AboutMe from './components/AboutMe';
 import Projects from './components/Projects';
 import Navbar from './components/Navbar'
@@ -14,18 +14,20 @@ function App() {
 
       <div id="profile-div">
 
-        <Container>
           <Row>
               <Col>
                 <AboutMe/>
               </Col>
 
+              <Col>
+              </Col>
 
-            <Col>
+
+            <Col id="projects-col">
               <Projects/>
             </Col>
           </Row>
-        </Container>
+
       </div>
     </div>
   );
