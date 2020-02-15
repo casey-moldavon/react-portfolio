@@ -26,14 +26,14 @@ Normally i'd include more details of the design process along with images, parts
 
 ## Deployed Link
 ​
-* [See Live Site]()
+* [See Live Site](https://casey-moldavon.github.io/react-portfolio/)
 ​
 ## Authors
 ​
 
 * **Casey Moldavon** 
 ​
-- [Link to Portfolio Site]()
+- [Link to Portfolio Site](https://casey-moldavon.github.io/updated-portfolio-2/)
 - [Link to Github](https://github.com/casey-moldavon/react-portfolio)
 - [Link to LinkedIn](https://www.linkedin.com/in/casey-moldavon-442a1761/)
 ​
