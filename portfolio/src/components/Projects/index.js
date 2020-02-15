@@ -13,6 +13,7 @@ import DayPlanner from '../P-DayPlanner';
 import CrewBuilder from '../P-CrewBuilder';
 import CodeQuiz from '../P-CodeQuiz';
 import ClickyGame from '../P-ClickyGame';
+import WeatherDashboard from '../P-WeatherDashboard';
 
 function Projects(){
     return (
@@ -52,7 +53,8 @@ function Projects(){
                         </Card.Body>
                 </Card>
             </div>
-
+        {/* </Row>
+        <Row> */}
             <div className="card-div">
                 <Card className="text-center bg-transparent" id="project-card">
                     <Card.Img variant="top" id="project-image" src={require("./images/nomster.png")} />
@@ -88,7 +90,8 @@ function Projects(){
                         </Card.Body>
                 </Card>
             </div>
-
+        {/* </Row>
+        <Row> */}
             <div className="card-div">
                 <Card className="text-center bg-transparent" id="project-card">
                     <Card.Img variant="top" id="project-image" src={require("./images/crew-builder.gif")} />
@@ -112,6 +115,15 @@ function Projects(){
                     <Card.Img variant="top" id="project-image" src={require("./images/employee-management.gif")} />
                         <Card.Body>
                             <EmployeeManagement/>
+                        </Card.Body>
+                </Card>
+            </div>
+
+            <div className="card-div">
+                <Card className="text-center bg-transparent" id="project-card">
+                    <Card.Img variant="top" id="project-image" src={require("./images/weather-dashboard.png")} />
+                        <Card.Body>
+                            <WeatherDashboard/>
                         </Card.Body>
                 </Card>
             </div>
