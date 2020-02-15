@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.5b577e07.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.b7cf83b0.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.b7cf83b0.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.ae70f43c.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.ae70f43c.js.map",
+    "static/js/2.07a2dd95.chunk.js": "/react-portfolio/static/js/2.07a2dd95.chunk.js",
+    "static/js/2.07a2dd95.chunk.js.map": "/react-portfolio/static/js/2.07a2dd95.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.3729a64cd70eec238aadf81bc953b03a.js": "/react-portfolio/precache-manifest.3729a64cd70eec238aadf81bc953b03a.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.5b577e07.chunk.css.map": "/react-portfolio/static/css/main.5b577e07.chunk.css.map",
+    "static/js/2.07a2dd95.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.07a2dd95.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/react-portfolio/static/media/Enchanted Land.4cc44563.otf",
+    "static/media/App.css": "/react-portfolio/static/media/background-str.d6d9cda9.jpg",
+    "static/media/clicky-game.png": "/react-portfolio/static/media/clicky-game.24a4e859.png",
+    "static/media/code-quiz.png": "/react-portfolio/static/media/code-quiz.f3637609.png",
+    "static/media/crew-builder.gif": "/react-portfolio/static/media/crew-builder.b0e9d31c.gif",
+    "static/media/day-planner.png": "/react-portfolio/static/media/day-planner.04134685.png",
+    "static/media/employee-management.gif": "/react-portfolio/static/media/employee-management.6b40dd45.gif",
+    "static/media/medieval-avatars.png": "/react-portfolio/static/media/medieval-avatars.90658a50.png",
+    "static/media/nomster.png": "/react-portfolio/static/media/nomster.ee9178ee.png",
+    "static/media/note-taker.png": "/react-portfolio/static/media/note-taker.8293ecdc.png",
+    "static/media/password-generator.png": "/react-portfolio/static/media/password-generator.17c0fc7e.png",
+    "static/media/portfolio.png": "/react-portfolio/static/media/portfolio.bc18629b.png",
+    "static/media/weather-dashboard.png": "/react-portfolio/static/media/weather-dashboard.16cfa71d.png",
+    "static/media/workout-tracker.png": "/react-portfolio/static/media/workout-tracker.5b1848d7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae70f43c.js",
+    "static/js/2.07a2dd95.chunk.js",
+    "static/css/main.5b577e07.chunk.css",
+    "static/js/main.b7cf83b0.chunk.js"
+  ]
+}
